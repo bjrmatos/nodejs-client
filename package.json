@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "concat-stream": "^1.4.6",
-    "request": "^2.40.0"
+    "request": "2.61.0"
   }
 }
